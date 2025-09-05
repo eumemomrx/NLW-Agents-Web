@@ -1,4 +1,3 @@
-// AIzaSyAHwRIPM4STboCP_etptdf-MdSE0SAd5lY
 
 const apiKeyInput = document.getElementById('apiKey')
 const gameSelect = document.getElementById('gameSelect')
